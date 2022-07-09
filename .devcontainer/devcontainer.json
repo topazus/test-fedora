@@ -1,0 +1,6 @@
+{
+	"name": "my scala dev",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+}
